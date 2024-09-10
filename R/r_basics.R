@@ -3,6 +3,13 @@
 #   little minds"   -Ralph Waldo Emerson 
 
 # Literals ----
+"this is a string literal" #quotes mean string literal and double quotes prefered not required 
+42
+T
+F
+TRUE
+TRUE
+
 
 # Operators ----
 
